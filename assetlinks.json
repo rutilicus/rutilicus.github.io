@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rutilicus.flyingbanana",
+    "sha256_cert_fingerprints":
+    ["FF:7C:12:65:08:B2:21:1F:D8:EE:9D:E2:D9:38:FA:7F:E0:33:CF:82:FF:A3:A5:D4:62:2B:B6:80:85:C1:9B:9A"]
+  }
+}]
