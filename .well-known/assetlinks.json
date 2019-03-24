@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["FF:7C:12:65:08:B2:21:1F:D8:EE:9D:E2:D9:38:FA:7F:E0:33:CF:82:FF:A3:A5:D4:62:2B:B6:80:85:C1:9B:9A"]
   }
+},
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rutilicus.zundokobutton",
+    "sha256_cert_fingerprints":
+    ["22:79:64:C0:D7:66:0E:23:2A:FE:4F:25:87:F0:39:9E:1C:38:B2:60:23:8C:58:4A:14:B8:4E:40:60:BE:93:80"]
+  }
 }]
